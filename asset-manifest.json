@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.js": "/static/js/main.04b2eb1c.js",
+    "static/js/787.feafab54.chunk.js": "/static/js/787.feafab54.chunk.js",
+    "static/media/vivek_img.png": "/static/media/vivek_img.d17a05366683e063f7b5.png",
+    "static/media/ecom.png": "/static/media/ecom.fe6fada7ca5f95739cdd.png",
+    "static/media/gadget.png": "/static/media/gadget.b717a47bfc6a823f1af4.png",
+    "static/media/sandstrom.png": "/static/media/sandstrom.24ac5bb50571708d5379.png",
+    "static/media/asrs.png": "/static/media/asrs.ecadd3d85658e8c032c0.png",
+    "static/media/Vivek-Gupta-Resume.pdf": "/static/media/Vivek-Gupta-Resume.01e7970ba7ccfa55f942.pdf",
+    "static/media/React.png": "/static/media/React.b651ed8f9c447ce5a7ae.png",
+    "static/media/hibernate.png": "/static/media/hibernate.bb7ac51da0336b4a3d62.png",
+    "static/media/html.webp": "/static/media/html.0072ba89390f929435b5.webp",
+    "static/media/intelli.png": "/static/media/intelli.d29eb225be6c6784907b.png",
+    "static/media/github.png": "/static/media/github.ba9cb8d57d53e7189c48.png",
+    "static/media/css.png": "/static/media/css.1a57e67ac1fd2ea84d64.png",
+    "static/media/mysql.png": "/static/media/mysql.7d8d571e5629923eaf74.png",
+    "static/media/vcosde.png": "/static/media/vcosde.d793c746fbc937f66e3d.png",
+    "static/media/java.png": "/static/media/java.6c64373d3b7415758078.png",
+    "index.html": "/index.html",
+    "main.04b2eb1c.js.map": "/static/js/main.04b2eb1c.js.map",
+    "787.feafab54.chunk.js.map": "/static/js/787.feafab54.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.04b2eb1c.js"
+  ]
+}
