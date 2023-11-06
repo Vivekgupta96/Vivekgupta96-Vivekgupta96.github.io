@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "/static/js/main.04b2eb1c.js",
+    "main.js": "/static/js/main.1501d817.js",
     "static/js/787.feafab54.chunk.js": "/static/js/787.feafab54.chunk.js",
     "static/media/vivek_img.png": "/static/media/vivek_img.d17a05366683e063f7b5.png",
     "static/media/ecom.png": "/static/media/ecom.fe6fada7ca5f95739cdd.png",
@@ -18,10 +18,10 @@
     "static/media/vcosde.png": "/static/media/vcosde.d793c746fbc937f66e3d.png",
     "static/media/java.png": "/static/media/java.6c64373d3b7415758078.png",
     "index.html": "/index.html",
-    "main.04b2eb1c.js.map": "/static/js/main.04b2eb1c.js.map",
+    "main.1501d817.js.map": "/static/js/main.1501d817.js.map",
     "787.feafab54.chunk.js.map": "/static/js/787.feafab54.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.04b2eb1c.js"
+    "static/js/main.1501d817.js"
   ]
 }
